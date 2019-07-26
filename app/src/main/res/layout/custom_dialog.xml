@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+android:background="@drawable/popupbg"
+>
+
+
+
+    <TextView
+
+            android:id="@+id/texttodisplay"
+            android:paddingTop="100dp"
+            android:paddingBottom="100dp"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="50dp"
+            android:textColor="#fff"
+            android:text="Game Over"
+
+
+    />
+
+</RelativeLayout>
